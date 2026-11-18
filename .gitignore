@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.playwright-mcp/
+.taste-skill/chrome-*/
+.taste-skill/gate/
+content/source/downloaded-images.json
+content/source/downloaded-fonts.json
+content/source/optimized-images.json
+hskt-website.zip
